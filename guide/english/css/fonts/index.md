@@ -46,7 +46,7 @@ The `font-size` property sets the size of the text.
 
 There are different types of font size values:
 
-* `px` (pixels) - The default size of text being `16px`
+* `px` (pixels) - The default size of text being `14px`
 * `em` - `1em` = the current font size, so `1em` = `16px` (recommended by the W3C)
 * `small`, `medium`, `large` - known as absolute size values
 * `%` - percentages
