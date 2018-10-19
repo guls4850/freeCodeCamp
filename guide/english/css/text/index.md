@@ -17,7 +17,7 @@ Several properties are provided by CSS to change the look and feel of the text. 
 ```
 ``` css
 p {
-    color:red;
+    color:blue;
  }
 ```
 
@@ -68,7 +68,7 @@ p {
 The `line-height` property sets the space between two lines of text.
 ``` css
 p {
-    line-height: 5px;
+    line-height: 7px;
 }
 ```
 
@@ -77,7 +77,7 @@ p {
 The `word-spacing` sets the space between words in a text.
 ``` css
 p {
-    word-spacing: 5px;
+    word-spacing: 3px;
 }
 ```
 
