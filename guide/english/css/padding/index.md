@@ -26,10 +26,10 @@ This property may be specified using one, two, three, or four values.
 padding: 1em;
   
 /* top and bottom | left and right */
-padding: 5% 10%;
+padding: 5px 10px;
   
 /* top | left and right | bottom */
-padding: 1em 2em 2em;
+padding: 1% 2em 2em;
 
 /* top | right | bottom | left */
 padding: 5px 1em 0 1em;
